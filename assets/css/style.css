@@ -47,8 +47,7 @@ h6 {
 a {
     font-family: 'Tahoma';
     text-decoration: none;
-    -webkit-transition: all 0.2s;
-    transition: all 0.2s;
+
 }
 a:hover {
     text-decoration: none;
